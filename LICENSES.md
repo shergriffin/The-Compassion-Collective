@@ -6,8 +6,8 @@ This project is dual-licensed under the following terms:
 
 ## 🔓 Code License
 
-All source code in this repository is licensed under the **Apache License 2.0**.  
-You may use, modify, and distribute the code under the terms defined in the `LICENSE` file.
+All source code in this repository is licensed under the **Apache License 2.0**.
+You may use, modify, and distribute the code under the terms defined in the [LICENSE](LICENSE) file.
 
 Learn more: [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
